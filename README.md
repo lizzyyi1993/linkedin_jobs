@@ -1,4 +1,4 @@
-# Data Analytics Job Postings Analysis
+# Data Analytics Job Analysis
 
 ## Overview
 The purpose of this project is to explore the data science opportunities in the job market nowadays, help data analytics enthusiasts land their dream jobs in the data analytics
